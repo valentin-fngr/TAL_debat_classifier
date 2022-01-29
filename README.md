@@ -10,12 +10,14 @@
 
 TODO : 
 
-1) Create venv 
-2) Fix class 
-3) write training loop : 
-        - list all hyper parameters 
-        - use tf idf
-        - save params
-
+1) Create venv : done, need to write requirements.txt for non-jupyter files
+2) Fix class : done
+3) write training loop : <br>
+        <ul>
+                <li> list all hyper parameters </li>
+                <li> use tf idf</li>
+                <li> save params</li>
+        </ul>
+       
 4) Write custom class for custom training loop
 5) display results
